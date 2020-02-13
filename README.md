@@ -7,8 +7,8 @@ This is the official repository of [EDGEFOOL: AN ADVERSARIAL IMAGE ENHANCEMENT F
 
 | Original Image | Adversarial Image | Original Image | Adversarial Image |
 |---|---|---|---|
-| ![Original Image](https://github.com/AliShahin/EdgeFool/blob/master/EdgeFoolExamples/ILSVRC2012_val_00000328.png) | ![Adversarial Image](https://github.com/AliShahin/EdgeFool/blob/master/EdgeFoolExamples/ILSVRC2012_val_00000328_EdgeFool.png) |![Original Image](https://github.com/AliShahin/EdgeFool/blob/master/EdgeFoolExamples/ILSVRC2012_val_00030569.png) | ![Adversarial Image](https://github.com/AliShahin/EdgeFool/blob/master/EdgeFoolExamples/ILSVRC2012_val_00030569_EdgeFool.png) |
-| ![Original Image](https://github.com/AliShahin/BeautyFool/blob/master/Dataset/ILSVRC2012_val_00002437.png) | ![Adversarial Image](https://github.com/AliShahin/EdgeFool/blob/master/EdgeFoolExamples/ILSVRC2012_val_00002437_EdgeFool.png) |![Original Image](https://github.com/AliShahin/EdgeFool/blob/master/EdgeFoolExamples/Places365_val_00000702.png) | ![Adversarial Image](https://github.com/AliShahin/EdgeFool/blob/master/EdgeFoolExamples/Places365_val_00000702_EdgeFool.png) |
+| ![Original Image](https://github.com/smartcameras/EdgeFool/blob/master/EdgeFoolExamples/ILSVRC2012_val_00000328.png) | ![Adversarial Image](https://github.com/smartcameras/EdgeFool/blob/master/EdgeFoolExamples/ILSVRC2012_val_00000328_EdgeFool.png) |![Original Image](https://github.com/smartcameras/EdgeFool/blob/master/EdgeFoolExamples/ILSVRC2012_val_00030569.png) | ![Adversarial Image](https://github.com/smartcameras/EdgeFool/blob/master/EdgeFoolExamples/ILSVRC2012_val_00030569_EdgeFool.png) |
+| ![Original Image](https://github.com/smartcameras/EdgeFool/blob/master/Dataset/ILSVRC2012_val_00002437.png) | ![Adversarial Image](https://github.com/smartcameras/EdgeFool/blob/master/EdgeFoolExamples/ILSVRC2012_val_00002437_EdgeFool.png) |![Original Image](https://github.com/smartcameras/EdgeFool/blob/master/EdgeFoolExamples/Places365_val_00000702.png) | ![Adversarial Image](https://github.com/smartcameras/EdgeFool/blob/master/EdgeFoolExamples/Places365_val_00000702_EdgeFool.png) |
 
 
 ## Setup
