@@ -23,7 +23,7 @@ This is the official repository of [EDGEFOOL: AN ADVERSARIAL IMAGE ENHANCEMENT F
    ```
 3. Download source code from GitHub
    ```
-    git clone https://github.com/AliShahin/EdgeFool.git 
+    git clone https://github.com/smartcameras/EdgeFool.git 
    ```
 4. Install requirements
    ```
